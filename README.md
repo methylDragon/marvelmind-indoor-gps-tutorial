@@ -21,5 +21,5 @@ The Resources, Manuals, and Drivers directory also includes firmware and manuals
 
 ---
 
- [![Yeah! Buy the DRAGON a COFFEE!](assets/COFFEE BUTTON ヾ(°∇°^).png)](https://www.buymeacoffee.com/methylDragon)
+ [![Yeah! Buy the DRAGON a COFFEE!](./assets/COFFEE%20BUTTON%20%E3%83%BE(%C2%B0%E2%88%87%C2%B0%5E).png)](https://www.buymeacoffee.com/methylDragon)
 
